@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroXmlSerializer", "MicroXmlSerializer\MicroXmlSerializer.csproj", "{2E56C6DA-9B36-4C58-A396-EF20BBBEE33D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroXmlSerializer.Tests", "MicroXmlSerializer.Tests\MicroXmlSerializer.Tests.csproj", "{CEE83764-18FA-4F29-A4D3-D4E6A7EFA155}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E56C6DA-9B36-4C58-A396-EF20BBBEE33D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E56C6DA-9B36-4C58-A396-EF20BBBEE33D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E56C6DA-9B36-4C58-A396-EF20BBBEE33D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E56C6DA-9B36-4C58-A396-EF20BBBEE33D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEE83764-18FA-4F29-A4D3-D4E6A7EFA155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEE83764-18FA-4F29-A4D3-D4E6A7EFA155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEE83764-18FA-4F29-A4D3-D4E6A7EFA155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEE83764-18FA-4F29-A4D3-D4E6A7EFA155}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {212CC6C0-29C2-44B4-8410-1BF45C3948BD}
+	EndGlobalSection
+EndGlobal
